@@ -1,0 +1,15 @@
+{
+    "_id": "66e0a05e-6bf8-4e1f-a403-d534a9c8070c",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2023-07-04T09:33:19.703Z",
+    "modified": "2023-07-04T09:33:19.703Z",
+    "data": [
+        {
+            "name": "baseUrl",
+            "value": "http://127.0.0.1:8080"
+        }
+    ]
+}

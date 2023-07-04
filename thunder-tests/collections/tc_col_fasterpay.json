@@ -1,0 +1,23 @@
+{
+    "_id": "e4948cbc-15ce-44a8-93e4-c96bab3fbc2b",
+    "colName": "fasterpay",
+    "created": "2023-07-04T09:32:57.237Z",
+    "sortNum": 10000,
+    "folders": [],
+    "requests": [
+        {
+            "_id": "4c3f1c59-beb0-48ce-bdb9-0506b4a2bc42",
+            "colId": "e4948cbc-15ce-44a8-93e4-c96bab3fbc2b",
+            "containerId": "",
+            "name": "Test",
+            "url": "{{baseUrl}}/fasterpay",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-07-04T09:33:07.354Z",
+            "modified": "2023-07-04T09:46:54.185Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
