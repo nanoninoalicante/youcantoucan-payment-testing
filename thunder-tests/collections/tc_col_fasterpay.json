@@ -18,6 +18,25 @@
             "headers": [],
             "params": [],
             "tests": []
+        },
+        {
+            "_id": "8c8cf289-6c6a-4fb1-bd13-70b016051ded",
+            "colId": "e4948cbc-15ce-44a8-93e4-c96bab3fbc2b",
+            "containerId": "",
+            "name": "Pingback",
+            "url": "{{baseUrl}}/fasterpay/ping",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-09-12T09:40:17.110Z",
+            "modified": "2023-09-12T09:42:03.198Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"hello\": \"world\"\n}",
+                "form": []
+            },
+            "tests": []
         }
     ]
 }
